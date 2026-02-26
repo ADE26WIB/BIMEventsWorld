@@ -1,5 +1,19 @@
 [
   {
+  "id": "wib-xpresso-perth-wa-australia",
+  "name": "WIB Xpresso-Perth,WA, Australia",
+  "city": "Perth",
+  "country": "australia",
+  "countryCode": "??",
+  "lat": 0,
+  "lng": 0,
+  "startDate": "2026-02-27",
+  "endDate": "2026-02-27",
+  "mode": "in-person",
+  "url": "https://womeninbim.org/event/women-in-bim-xpresso-perth-wa/",
+  "emoji": ""
+}
+  {
     "id": "computational-design-day-2026",
     "name": "Computational Design Day",
     "city": "Delft",
